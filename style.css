@@ -9,6 +9,9 @@ h1{
     font-size: 60px;
     color: #575757;
 }
+h3{
+    color: white;
+}
 p{
     font-size: 20px;
     color: #828282;
@@ -25,7 +28,7 @@ section{
     display: flex;
 }
 .top-section{
-    background-image: url(images/71.PNG);
+    background-image: url(images/Frame58.jpg);
     background-repeat: no-repeat;
     width: 100%;
     
@@ -48,5 +51,24 @@ section{
     margin-left: 10%;
 }
 #My-recipe-handler{
-    text-align: center;
+    margin: 0% 33%;
+}
+.footer-section{
+    height: 300px;
+    width: 100%;
+    background-color: black;   
+}
+.footer-handler{
+    margin: 10px 450px;
+    padding: 10px 10px;
+    width: 100%;
+
+}
+.food-container{
+    margin: 10% 3%;
+    padding: 10px 20px;
+    width: 30%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px grey;
+    
 }
