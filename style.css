@@ -50,7 +50,7 @@ section{
     width: 58.5%;
     margin-left: 10%;
 }
-#My-recipe-handler{
+.text-handler{
     margin: 0% 33%;
 }
 .footer-section{
@@ -60,7 +60,7 @@ section{
 }
 .footer-handler{
     margin: 10px 450px;
-    padding: 10px 10px;
+    padding: 10px 8px;
     width: 100%;
 
 }
@@ -68,7 +68,17 @@ section{
     margin: 10% 3%;
     padding: 10px 20px;
     width: 30%;
-    border-radius: 10px;
+    border-radius: 20px;
     box-shadow: 10px 10px 30px grey;
     
+}
+.extra-section-handler{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 3%;
+    margin-bottom: 5%;
+    height: 40%;
+    text-align: center;
+    border-radius: 50px;
+    box-shadow: 10px 10px 20px goldenrod;
 }
